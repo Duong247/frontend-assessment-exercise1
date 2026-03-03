@@ -1,3 +1,22 @@
+#  EXERCISE 1
+## INTRODUCTION
+* Build a responsive page based on the designs. 
+* This is React project built with Vite, displays list of posts with component: 
+    - App
+    - Banner
+    - Post
+    - PostList
+
+## How to run project
+- Open in VsCode and type in terminal
+    1. `cd exercise1`
+    2. `npm i`
+    3. `npm run dev`
+* Resize the screen to see the responsive layout.
+## 🚀 Demo  
+Live demo: https://duong247.github.io/frontend-assessment-exercise1/
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
